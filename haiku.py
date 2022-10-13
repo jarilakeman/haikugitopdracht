@@ -13,11 +13,11 @@ def Haiku2():
     print("Blowing from the west Fallen leaves gather In the east.")
     print("Winter seclusion - Listening, that evening, To the rain in the mountain.")
 
-def HaikuX():
-    print("By: ")
-    print("Line 1")
-    print("Line 2")
-    print("Line 3")
+def Haiku3():
+    print("By:mika ")
+    print("In the cicada's cry No sign can foretell How soon it must die.")
+    print("Blowing from the west Fallen leaves gather In the east.")
+    print("Winter seclusion - Listening, that evening, To the rain in the mountain.")
     
 
 #laat de code hieronder met rust
