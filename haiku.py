@@ -7,11 +7,11 @@ def Haiku1():
     print("From time to time The clouds give rest To the moon-beholders.")
     print("Over-ripe sushi, The Master Is full of regret.")
 
-def HaikuX():
-    print("By: ")
-    print("Line 1")
-    print("Line 2")
-    print("Line 3")
+def Haiku2():
+    print("By:Donny ")
+    print("In the cicada's cry No sign can foretell How soon it must die.")
+    print("Blowing from the west Fallen leaves gather In the east.")
+    print("Winter seclusion - Listening, that evening, To the rain in the mountain.")
 
 def HaikuX():
     print("By: ")
